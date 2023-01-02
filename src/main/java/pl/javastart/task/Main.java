@@ -13,7 +13,7 @@ public class Main {
         christmasTree2.setHeight(160);
         christmasTree2.setType("jodła");
         christmasTree2.setBaublesAmount(23);
-        
+
         */
 
         System.out.println(christmasTree1);
