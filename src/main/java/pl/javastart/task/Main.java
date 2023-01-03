@@ -3,8 +3,8 @@ package pl.javastart.task;
 public class Main {
 
     public static void main(String[] args) {
-        ChristmasTree christmasTree1 = new ChristmasTree(185,"sosna",25);
-        ChristmasTree christmasTree2 = new ChristmasTree(160,"jodła",23);
+        ChristmasTree christmasTree1 = new ChristmasTree(185, "sosna", 25);
+        ChristmasTree christmasTree2 = new ChristmasTree(160, "jodła", 23);
 
        /* christmasTree1.setHeight(185);
         christmasTree1.setType("sosna");
